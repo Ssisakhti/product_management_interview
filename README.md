@@ -65,5 +65,3 @@
 [How do you answer the product metrics questions in a product manager interview?](https://www.quora.com/How-do-you-answer-the-product-metrics-questions-in-a-product-manager-interview)
 
 [How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions)
-
-[156 Key Performance Indicators (KPIs) For Finance And Accounting](https://www.malartu.co/financial-kpis)
