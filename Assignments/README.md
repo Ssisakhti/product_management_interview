@@ -1,0 +1,29 @@
+# Product Assignments(in farsi)
+
+There is no completely correct solution or answer to any of these assignments, so they can only be used to get ideas. If you look at the answers, you will find that it is not easy to say which answer is accepted and which is not. Therefore just get the ideas.
+
+Due to the lack of time and peoples' personal problems and the expanse of topics, the answers do not show the knowledge or abilities of people in the real world. So, do not judge people with it.
+
+-------
+
+| Company | Position | Assignment | Answer | Accepted | Author |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Divar | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/saeid_sisakhti/divar/Q_divar_saeid_sisakhti.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/saeid_sisakhti/divar/A_divar_saeid_sisakhti.pdf) | `Yes` | Saeid Sisakhti |
+| Divar | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/divarmrk01/Q_divar_pm.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/divarmrk01/A_divar_pm.pdf) | `Yes` | Unknown |
+| Cafebazaar | `Associate Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/cafebazaar_zeerak_mhtb01/Q_CloudPM_ServerlessApp.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/cafebazaar_zeerak_mhtb01/A_CloudPM_ServerlessApp.pdf) | `Yes` | Unknown |
+| Jabama | `Product Manager Intern` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/jabama_mhtb01/Q_PMI_Assignment.rar) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/jabama_mhtb01/A_PMI_Assignment.zip) | `Yes` | Unknown |
+| ‌Balad | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Ali_R_Mansour/01/Q_arm_balad.jpeg) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Ali_R_Mansour/01/A_arm_balad.zip) | `No` | Ali R. Mansour |
+| ‌Balad | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Ali_R_Mansour/02/Q_CafeBazaar_Homework_arm.jpeg) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Ali_R_Mansour/02/A_CafeBazaar_Homework_arm.pdf) | `No` | Ali R. Mansour |
+| Divar | `Associate Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/siavash_jahani/divar_pm/Q_Influencer_marketing_platform.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/siavash_jahani/divar_pm/A_Influencer_marketing_platform.pdf) | `No` | Siavash Jahani |
+| Arvan | `Project Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/siavash_jahani/abrarvan_projectmanager/Q_project_management.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/siavash_jahani/abrarvan_projectmanager/A_project_management.zip)| `Yes` | Siavash Jahani |
+| Snapp-box| `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/snappbox_ap01/Q_snappbox_pm.pdf)| [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/snappbox_ap01/A_snappbox_pm.pdf)| `Yes` | Unknown |
+| Divar | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/alireza_purusef/divar_pm/Q_Influencer_Marketing.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/alireza_purusef/divar_pm/A_Influencer_Marketing.pdf) | `No` | Alireza Purusef |
+| Pushe | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/alireza_purusef/pushe_pm/Q_PM_Candidate_Task.zip) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/alireza_purusef/pushe_pm/A_PM_Candidate_Task.pdf) | `Yes` | Alireza Purusef |
+| Ostadkar | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/taher_hekmatfar/Q_urbanclap.docx) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/taher_hekmatfar/A_urbanclap.pdf) | `Yes` | Taher Hekmatfar |
+| Cafebazaar | `Associate Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/cafebazaar_ap01/Q_cafe_apm.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/cafebazaar_ap01/A_cafe_apm.pdf) | `No` | Unknown |
+| Asan Pardakht | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/mohammad_abdoljabbari/Q_asanpardakht.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/mohammad_abdoljabbari/A_asanpardakht.zip) | `Yes` | Mohammad Abdoljabbari |
+| Cafebazaar | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/only%20tasks/cafebazaar01.docx) ||||
+| Snappfood | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/only%20tasks/snapfood01.docx) ||||
+| Yektanet | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/only%20tasks/yektanet01.rar) ||||
+
+You can send me an email(saeid.sisakhti[at]g.m.a.i.l) if you have one, the assigned task, or your answer.
