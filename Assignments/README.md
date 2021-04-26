@@ -25,5 +25,7 @@ Due to the lack of time and peoples' personal problems and the expanse of topics
 | Cafebazaar | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/only%20tasks/cafebazaar01.docx) ||||
 | Snappfood | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/only%20tasks/snapfood01.docx) ||||
 | Yektanet | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/only%20tasks/yektanet01.rar) ||||
+| Snapp-box | `Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/snappbox_sj01/Q_spm_snpbox.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/snappbox_sj01/A_spm_snpbox.pdf) | `Yes` | Unknown |
+| Divar| `Associate Product Manager` | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/divar_sf01/Q_divar_apm.pdf) | [Download](https://github.com/Ssisakhti/product_management_interview/blob/main/Assignments/Unknown/divar_sf01/A_divar_apm.pdf) | `Yes` | Unknown |
 
 You can send me an email(saeid.sisakhti[at]g.m.a.i.l) if you have one, the assigned task, or your answer.
